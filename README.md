@@ -1,5 +1,8 @@
 # Location Tracker
 
+```Created with OpenCode````
+```i want to build a system that allows multiple users to share their current locations - each user sends their location and receives updates of the positions of other users. use websockets for real time communication```
+
 Real-time location sharing system built with TypeScript, Socket.IO, and React.
 
 ## Features
