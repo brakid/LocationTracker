@@ -1,6 +1,6 @@
 # Location Tracker
 
-```Created with OpenCode```
+*Created with [OpenCode](https://opencode.ai/)*
 
 Starting prompt for planning: ```i want to build a system that allows multiple users to share their current locations - each user sends their location and receives updates of the positions of other users. use websockets for real time communication```
 
